@@ -54,7 +54,7 @@ export default function Body() {
           </InputGroup>
           <Button
             colorPalette="red"
-            variant="solidcd"
+            variant="solid"
             onClick={() => {
               getMovies(search);
             }}
