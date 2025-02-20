@@ -14,9 +14,6 @@
 
 👨‍💻 Setup & Run:
 
-*bash
-Copy
-Edit
 git clone https://github.com/yourusername/MovieCrave
 cd MovieCrave
 cd mov_crave
